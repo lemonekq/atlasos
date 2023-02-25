@@ -1,0 +1,1 @@
+<img src="https://raw.githubusercontent.com/lemonekq/atlasos/main/WallpapersThemes/speedramp/Dark/speedramp_dark.png" width="100%">
