@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/lemonekq/atlasos/main/Dark/valo/valo.png" width="100%">
+<img src="https://raw.githubusercontent.com/lemonekq/atlasos/main/WallpapersThemes/valo/Dark/valo_dark.png" width="100%">
